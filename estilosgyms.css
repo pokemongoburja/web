@@ -147,6 +147,10 @@ footer {
       .menu-icon {
             display: block;
       }
+      
+        fotos {
+        position: absolute;
+      }
 
 }
 
